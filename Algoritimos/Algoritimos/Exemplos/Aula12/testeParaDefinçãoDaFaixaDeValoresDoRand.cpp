@@ -12,7 +12,7 @@ int main()
 
     for(i=1; i<=1; i++)
     {
-        printf("Numero %d: %d\n", i, rand()%10);
+        printf("Numero %d: %d\n", i, 1+(rand()%10));
 
     }
 }
